@@ -272,7 +272,7 @@ const CACHE_DURATION = {
 
 MIT License - see **LICENSE.md** for details
 
----
+
 
 ## **Support** 📧
 
