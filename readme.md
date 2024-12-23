@@ -276,7 +276,7 @@ MIT License - see **LICENSE.md** for details
 
 ## **Support** 📧
 
-For support, email: [abhiishek340@gmail.com]
+For support, email: abhiishek340@gmail.com
 
 
 
