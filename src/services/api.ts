@@ -223,7 +223,7 @@ export const api = {
       // Make API call if no cache hit
       const response = await axios.get('https://newsdata.io/api/1/news', {
         params: {
-          apikey: 'pub_5827833f271352bd4b9540e47433b0fc33dc5',
+          apikey: import.meta.env.VITE_NEWSDATA_API_KEY,
           q: `${crypto} OR ${crypto.toLowerCase()} OR ${crypto.toUpperCase()}`,
           language: 'en',
           category: 'business,science,technology,world',
